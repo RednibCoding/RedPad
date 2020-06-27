@@ -8,4 +8,5 @@ I just needed a minimalistic and distraction free code editor for assembly and c
 - Copy, Paste, Cut, Find with standard keyboard shortcuts (ctrl+c, ctrl+v, ctrl+x, ctrl+f)
 - Code highlighting (for c and assembly)
 - Code folding
+- drag&drop files to open them
 - define and run a *task.bat* from the editor
