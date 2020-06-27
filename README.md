@@ -1,4 +1,4 @@
-# RedPad
+# RedPad <img src="/readme/chip.png" width="40"/>
 RedPad is a minimalistic Code Editor for Assembly and C written in C# and .NetFramework 4.7.2
 
 <p float="left">
@@ -16,3 +16,4 @@ I just needed a minimalistic and distraction free code editor for assembly and c
 - Code Folding
 - Drag&Drop files to open them
 - define and run a *task.bat* from the editor
+- single exe file
