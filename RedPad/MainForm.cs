@@ -112,7 +112,7 @@ namespace RedPad
 
 		private void InitColors()
 		{
-			TextArea.SetSelectionBackColor(true, IntToColor(0x999999));
+			TextArea.SetSelectionBackColor(true, IntToColor(0x4d4d4d));
 			TextArea.CaretForeColor = IntToColor(CARET_COLOR);
 		}
 

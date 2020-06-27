@@ -11,3 +11,16 @@ C:\Users\Micha\Google_Drive\Micha\DEV\c#\RedPadProject\RedPad\bin\Debug\Scintill
 C:\Users\Micha\Google_Drive\Micha\DEV\c#\RedPadProject\RedPad\obj\Debug\RedPad.csproj.CopyComplete
 C:\Users\Micha\Google_Drive\Micha\DEV\c#\RedPadProject\RedPad\obj\Debug\RedPad.exe
 C:\Users\Micha\Google_Drive\Micha\DEV\c#\RedPadProject\RedPad\obj\Debug\RedPad.pdb
+C:\Users\Micha\Google_Drive\Micha\DEV\c#\RedPad\RedPad\bin\Debug\RedPad.exe.config
+C:\Users\Micha\Google_Drive\Micha\DEV\c#\RedPad\RedPad\bin\Debug\RedPad.exe
+C:\Users\Micha\Google_Drive\Micha\DEV\c#\RedPad\RedPad\bin\Debug\RedPad.pdb
+C:\Users\Micha\Google_Drive\Micha\DEV\c#\RedPad\RedPad\bin\Debug\ScintillaNET.dll
+C:\Users\Micha\Google_Drive\Micha\DEV\c#\RedPad\RedPad\bin\Debug\ScintillaNET.xml
+C:\Users\Micha\Google_Drive\Micha\DEV\c#\RedPad\RedPad\obj\Debug\RedPad.csprojAssemblyReference.cache
+C:\Users\Micha\Google_Drive\Micha\DEV\c#\RedPad\RedPad\obj\Debug\RedPad.MainForm.resources
+C:\Users\Micha\Google_Drive\Micha\DEV\c#\RedPad\RedPad\obj\Debug\RedPad.Properties.Resources.resources
+C:\Users\Micha\Google_Drive\Micha\DEV\c#\RedPad\RedPad\obj\Debug\RedPad.csproj.GenerateResource.cache
+C:\Users\Micha\Google_Drive\Micha\DEV\c#\RedPad\RedPad\obj\Debug\RedPad.csproj.CoreCompileInputs.cache
+C:\Users\Micha\Google_Drive\Micha\DEV\c#\RedPad\RedPad\obj\Debug\RedPad.csproj.CopyComplete
+C:\Users\Micha\Google_Drive\Micha\DEV\c#\RedPad\RedPad\obj\Debug\RedPad.exe
+C:\Users\Micha\Google_Drive\Micha\DEV\c#\RedPad\RedPad\obj\Debug\RedPad.pdb
